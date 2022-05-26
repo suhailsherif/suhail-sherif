@@ -75,9 +75,9 @@ highlight_name: true
 
 I am currently a postdoctoral researcher at Vector Institute working with colleagues at the Computer Science department in the University of Toronto.
 
-I completed my PhD under the supervision of Arkadev Chattopadhyay at the Tata Institute of Fundamental Research. The work therein was awarded the 2021 ACM India Doctoral Dissertation Award. You can see an overview of the work in that dissertation in <a href="http://theresnoactuallinkbecausetherecordedvideomighthavebeenlost/">this talk</a>.
+I completed my PhD under the supervision of Arkadev Chattopadhyay at the Tata Institute of Fundamental Research. The work therein was awarded the 2021 ACM India Doctoral Dissertation Award. You can watch me defend my dissertation <a href="https://www.youtube.com/watch?v=FTbAcwktBCQ">here</a>.<!--You can see an overview of the work in that dissertation in <a href="http://theresnoactuallinkbecausetherecordedvideomighthavebeenlost/">this talk</a>. -->
 
-I have infiltrated a group of boulderers and soon we shall enact The Red Dim-Sums.
+On this page you can find my recent/featured publications and maybe even other things that I might feel comfortable sharing with strangers on the internet.
 
 <!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
