@@ -7,17 +7,17 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 10
+weight: 20
 
 title: Recent Publications
-subtitle: ''
+subtitle: '[Click here for all publications](./publication/)'
 
 content:
   # Filter on criteria
   filters:
     folders:
       - publication
-    tag: ''
+    tag: 'recent'
     category: ''
     publication_type: ''
     author: ''
@@ -35,7 +35,3 @@ design:
   view: citation
   columns: '2'
 ---
-
-<!-- {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}} -->

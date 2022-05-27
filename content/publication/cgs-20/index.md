@@ -8,7 +8,7 @@ authors:
 - Arkadev Chattopadhyay
 - Ankit Garg
 - admin
-tags: []
+tags: ['recent']
 categories: []
 date: '2021-01-01'
 lastmod: 2022-05-26T02:11:26-04:00
@@ -32,7 +32,7 @@ projects: []
 publishDate: '2022-05-26T06:19:58.588894Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: "We give improved separations for the query complexity analogue of the log-approximate-rank conjecture i.e. we show that there are a plethora of total Boolean functions on n input bits, each of which has approximate Fourier sparsity at most $O(n^3)$ and randomized parity decision tree complexity $\\Theta(n)$. This improves upon the recent work of <a href='/publication/cms-20/'>Chattopadhyay, Mande and Sherif (JACM '20)</a> both qualitatively (in terms of designing a large number of examples) and quantitatively (improving the gap from quartic to cubic). We leave open the problem of proving a randomized communication complexity lower bound for XOR compositions of our examples. A linear lower bound would lead to new and improved refutations of the log-approximate-rank conjecture. Moreover, if any of these compositions had even a sub-linear cost randomized communication protocol, it would demonstrate that randomized parity decision tree complexity does not lift to randomized communication complexity in general (with the XOR gadget)."
 publication: '*FSTTCS 2021*'
 links:
 - name: arXiv

@@ -1,6 +1,3 @@
-+++
-active = false
-+++
 ---
 # An instance of the Featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
@@ -10,7 +7,7 @@ widget: featured
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 30
 
 title: Featured Publications
 subtitle: ''
@@ -35,5 +32,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 3
+  view: 2
 ---

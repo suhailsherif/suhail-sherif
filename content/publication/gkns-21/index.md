@@ -9,7 +9,7 @@ authors:
 - Robin Kothari
 - Praneeth Netrapalli
 - admin
-tags: []
+tags: ['recent']
 categories: []
 date: '2021-01-01'
 lastmod: 2022-05-26T02:21:48-04:00
@@ -33,7 +33,8 @@ projects: []
 publishDate: '2022-05-26T06:21:48.391481Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 'We study the complexity of optimizing highly smooth convex functions. For a positive integer $p$, we want to find an $\\epsilon$-approximate minimum of a convex function $f$, given oracle access to the function and its first $p$ derivatives, assuming that the $p$th derivative of $f$ is Lipschitz.
+Recently, three independent research groups (Jiang et al., PLMR 2019; Gasnikov et al., PLMR 2019; Bubeck et al., PLMR 2019) developed a new algorithm that solves this problem with $\\tilde{O}(1/\\epsilon^{2/3p+1})$ oracle calls for constant $p$. This is known to be optimal (up to log factors) for deterministic algorithms, but known lower bounds for randomized algorithms do not match this bound. We prove a new lower bound that matches this bound (up to log factors), and holds not only for randomized algorithms, but also for quantum algorithms.'
 publication: '*NeurIPS 2021*'
 links:
 - name: arXiv

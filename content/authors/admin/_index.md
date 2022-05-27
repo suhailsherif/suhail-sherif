@@ -14,7 +14,7 @@ organizations:
     url: https://vectorinstitute.ai/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I work in theoretical computer science, with a focus on query and communicaiton complexity.
+bio: I work in theoretical computer science, with a focus on query and communication complexity.
 
 # Interests to show in About widget
 interests:

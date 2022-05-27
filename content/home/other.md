@@ -1,6 +1,3 @@
-+++
-active = false
-+++
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
@@ -10,16 +7,16 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 40
 
-title: Recent Posts
+title: Other Stuff
 subtitle:
 
 content:
   # Filter on criteria
   filters:
     folders:
-      - post
+      - misc
     tag: ''
     category: ''
     publication_type: ''
