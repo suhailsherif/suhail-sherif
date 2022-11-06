@@ -38,7 +38,7 @@ categories:
 
 [Fine Design](https://www.youtube.com/finedesignvideos) (turns out you can't change the name of a channel once you create it) was a result of me trying out Grant Sanderson's amazing [manim](https://github.com/3b1b/manim) library for mathematics-related animations. Thanks to that I ended up making a bunch of videos about topics that I considered layman-accessible but that I couldn't find on YouTube. Here's a list of topics covered.
 
-  - A couple of hat puzzles that I really liked for their basic yet insightful lower bound technique, and for the impressive upper bounds that follow. {{< cta cta_alt_text="Watch the playlist" cta_alt_link="https://www.youtube.com/playlist?list=PL-R4p-BRL8NQnZJw_5WTn3Ta5ry3jGyhM" cta_alt_new_tab="true" >}}
+  - A couple of hat puzzles that I really liked for their basic yet insightful impossibility proofs, and for the impressive possibility results that follow. {{< cta cta_alt_text="Watch the playlist" cta_alt_link="https://www.youtube.com/playlist?list=PL-R4p-BRL8NQnZJw_5WTn3Ta5ry3jGyhM" cta_alt_new_tab="true" >}}
 
   - A series on the BIGNUM BAKEOFF contest, where contestants had to submit $512$-character C codes and the code that returns the largest number (when run on a hypothetical computer with arbitrarily large ints) wins. It touches a lot of topics in theoretical computer science and mathematical logic. {{< cta cta_alt_text="Watch the playlist" cta_alt_link="https://www.youtube.com/watch?v=U1K6TOy6yjU&list=PL-R4p-BRL8NR8THgjx_DW9c92VHTtjZEY&index=1" cta_alt_new_tab="true" >}}
 
