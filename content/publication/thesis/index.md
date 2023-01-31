@@ -39,9 +39,11 @@ abstract: 'My PhD work was in the areas of query and communication complexity. T
   - <a href="/publication/gkns-20/">No Quantum Speedup over Gradient Descent for Non-Smooth Convex Optimization</a>, with Ankit Garg, Robin Kothari and Praneeth Netrapalli: Optimization algorithms are often black-box algorithms, looking at the outputs of the functions they are trying to optimize rather than looking at the inner workings of the function. This abstraction of a black-box algorithm is captured by query complexity. The well-known Gradient Descent is a black-box algorithm that is provably optimal for the task of non-smooth convex optimization. Using known techniques in quantum query complexity, we are able to show that Gradient Descent can not be improved upon by a quantum black-box algorithm. This is in contrast to other quantum black-box algorithms such as Grover''s search and Shor''s period finding algorithm which show significant speedups.
   
   
-Addendum:
+Addenda:
 
-  - Conjecture 7.3 is false. The binary NAND tree with $n$ leaves is a function that has $\\Omega(n)$ subspace decision tree depth (witnessed by a lower bound of $2^{\\Omega(n)}$ on the $L_1$ norm of the Fourier coefficients of $f$), but has a randomized protocol (not even using parities) that is polynomially more efficient (see for instance <a href="https://www.math.ias.edu/~avi/PUBLICATIONS/MYPAPERS/SW86/SW86.pdf">Probabilistic boolean decision trees and the complexity of evaluating game trees</a>, Saks and Wigderson ''86 [Example 1.1]). Thanks to Swagato Sanyal for pointing this out.
+  - Conjecture 7.3 is false! The binary NAND tree with $n$ leaves is a function that has $\\Omega(n)$ subspace decision tree depth (witnessed by a lower bound of $2^{\\Omega(n)}$ on the $L_1$ norm of the Fourier coefficients of $f$), but has a randomized protocol (not even using parities) that is polynomially more efficient (see for instance <a href="https://www.math.ias.edu/~avi/PUBLICATIONS/MYPAPERS/SW86/SW86.pdf">Probabilistic boolean decision trees and the complexity of evaluating game trees</a>, Saks and Wigderson ''86 [Example 1.1]). Thanks to Swagato Sanyal for pointing this out.<br><br>
+
+  - Conjecture 7.1 is true! TsunMing Cheung, Hamed Hatami, Kaave Hosseini and Morgan Shirley proved in <a href="https://eccc.weizmann.ac.il/report/2022/165/">Separation of the factorization norm and randomized communication complexity</a> that the $\gamma_2$ norm of the Integer Inner Product function is large despite it being easy to compute using randomized communication.
   '
 publication: 'PhD Thesis'
 links:
