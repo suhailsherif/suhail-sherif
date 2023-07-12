@@ -10,8 +10,8 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Vector Institute
-    url: https://vectorinstitute.ai/
+  - name: LASIGE, University of Lisbon
+    url: https://www.lasige.pt/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I work in theoretical computer science, with a focus on lower bounds in query and communication complexity.
