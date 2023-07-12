@@ -41,9 +41,9 @@ abstract: 'My PhD work was in the areas of query and communication complexity. T
   
 Addenda:
 
-  - Conjecture 7.3 is false! The binary NAND tree with $n$ leaves is a function that has $\\Omega(n)$ subspace decision tree depth (witnessed by a lower bound of $2^{\\Omega(n)}$ on the $L_1$ norm of the Fourier coefficients of $f$), but has a randomized protocol (not even using parities) that is polynomially more efficient (see for instance <a href="https://www.math.ias.edu/~avi/PUBLICATIONS/MYPAPERS/SW86/SW86.pdf">Probabilistic boolean decision trees and the complexity of evaluating game trees</a>, Saks and Wigderson ''86 [Example 1.1]). Thanks to Swagato Sanyal for pointing this out.<br><br>
+  - Conjecture 7.1 is true! TsunMing Cheung, Hamed Hatami, Kaave Hosseini and Morgan Shirley proved in <a href="https://eccc.weizmann.ac.il/report/2022/165/">Separation of the factorization norm and randomized communication complexity</a> that the $\gamma_2$ norm of the Integer Inner Product function is large despite it being easy to compute using randomized communication. It also turns out to follow from previous results in discrepancy theory.<br><br>
 
-  - Conjecture 7.1 is true! TsunMing Cheung, Hamed Hatami, Kaave Hosseini and Morgan Shirley proved in <a href="https://eccc.weizmann.ac.il/report/2022/165/">Separation of the factorization norm and randomized communication complexity</a> that the $\gamma_2$ norm of the Integer Inner Product function is large despite it being easy to compute using randomized communication.
+  - Conjecture 7.3 is false! The above-mentioned results in discrepancy theory also extend to an exponential separation between Randomized Parity Decision Trees and the logarithm of the $L_1$ norm, and hence between RPDTs and SubspaceDTs as well. This also provides insight to the approximate $L_1$ norm, showing that this can be far smaller than the exact $L_1$ norm even for a Boolean function. (To be published by the authors of the previous work.) (I also thank Swagato Sanyal for previously pointing out that there was a polynomial separation using the binary NAND tree. [<a href="https://www.math.ias.edu/~avi/PUBLICATIONS/MYPAPERS/SW86/SW86.pdf">Probabilistic boolean decision trees and the complexity of evaluating game trees</a>, Saks and Wigderson ''86 [Example 1.1]].)
   '
 publication: 'PhD Thesis'
 links:

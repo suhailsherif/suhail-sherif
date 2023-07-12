@@ -14,12 +14,13 @@ organizations:
     url: https://vectorinstitute.ai/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I work in theoretical computer science, with a focus on query and communication complexity.
+bio: I work in theoretical computer science, with a focus on lower bounds in query and communication complexity.
 
 # Interests to show in About widget
 interests:
   - Query and Communication Complexity
   - Quantum Computing
+  - Lower Bounds
   # - Information Retrieval
 
 # Education to show in About widget
@@ -73,9 +74,9 @@ email: 'suhail.sherif@gmail.com'
 highlight_name: true
 ---
 
-I am currently a postdoctoral researcher at Vector Institute working with colleagues at the Computer Science department in the University of Toronto.
+I am currently a postdoctoral researcher at <a href="https://www.lasige.pt/"><img style="display:inline-block; height:1em; width:auto; margin-top: 0; margin-bottom: 0; transform:translate(0, -0.05em)" src="/uploads/lasige.png" title="LASIGE" alt="LASIGE"></a>, a research unit at the University of Lisbon, working with Bruno Loff on the Hardness of Finding Good Algorithms.
 
-I completed my PhD under the supervision of Arkadev Chattopadhyay at the Tata Institute of Fundamental Research. The work therein was awarded the 2021 ACM India Doctoral Dissertation Award. You can watch me defend my dissertation <a href="https://www.youtube.com/watch?v=FTbAcwktBCQ">here</a>.<!--You can see an overview of the work in that dissertation in <a href="http://theresnoactuallinkbecausetherecordedvideomighthavebeenlost/">this talk</a>. -->
+I completed my PhD under the supervision of Arkadev Chattopadhyay at the Tata Institute of Fundamental Research. The work therein was awarded the 2021 ACM India Doctoral Dissertation Award. You can watch me defend my dissertation <a href="https://www.youtube.com/watch?v=FTbAcwktBCQ">here</a>. I then did a postdoc at the University of Toronto with Toni Pitassi.<!--You can see an overview of the work in that dissertation in <a href="http://theresnoactuallinkbecausetherecordedvideomighthavebeenlost/">this talk</a>. -->
 
 On this page you can find my recent/featured publications and maybe even other things that I might feel comfortable sharing with strangers on the internet.
 
