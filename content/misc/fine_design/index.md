@@ -40,6 +40,8 @@ categories:
 
   - A couple of hat puzzles that I really liked for their basic yet insightful impossibility proofs, and for the impressive possibility results that follow. {{< cta cta_alt_text="Watch the playlist" cta_alt_link="https://www.youtube.com/playlist?list=PL-R4p-BRL8NQnZJw_5WTn3Ta5ry3jGyhM" cta_alt_new_tab="true" >}}
 
+  - A video on impossibility proofs and the Natural Proofs Barrier (given as an example of an impossibility proof about coming up with impossibility proofs). {{< cta cta_alt_text="Watch the video" cta_alt_link="https://www.youtube.com/watch?v=xLGLyh4crvQ" cta_alt_new_tab="true" >}}
+
   - A series on the BIGNUM BAKEOFF contest, where contestants had to submit $512$-character C codes and the code that returns the largest number (when run on a hypothetical computer with arbitrarily large ints) wins. It touches a lot of topics in theoretical computer science and mathematical logic. {{< cta cta_alt_text="Watch the playlist" cta_alt_link="https://www.youtube.com/watch?v=U1K6TOy6yjU&list=PL-R4p-BRL8NR8THgjx_DW9c92VHTtjZEY&index=1" cta_alt_new_tab="true" >}}
 
   - A video on non-adaptive combinatorial group testing. It goes over how polynomials were used by some researchers to test people for covid with far fewer tests performed than the number of people tested. {{< cta cta_alt_text="Watch the video" cta_alt_link="https://www.youtube.com/watch?v=D4wFd3iARWA" cta_alt_new_tab="true" >}}
